@@ -18,4 +18,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraaditya595&theme=radical&hide_langs_below=1" />
 </a>
 
+<p align="center"> 
+   Visitor Count
+ <br/>
+  <img src="https://profile-counter.glitch.me/mishraaditya595/count.svg" />
+</p>
+
 ### Show some ❤️ by starring some of the repositories!
