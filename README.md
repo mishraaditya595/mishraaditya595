@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Adi](https://github.com/mishraaditya595)
 
-- 🔭 I’m currently working on [Scanner](https://github.com/mishraaditya595/Scanner) & [HowInJava](https://github.com/mishraaditya595/HowInJava)
+- 🔭 I’m currently working on [ScanIt](https://github.com/mishraaditya595/Scanner) & [HowInJava](https://github.com/mishraaditya595/HowInJava)
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate on Android projects.
 <!-- - 🤔 I’m looking for help with -->
