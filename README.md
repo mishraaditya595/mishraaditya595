@@ -1,10 +1,9 @@
 ### Hi there 👋 I am [Adi](https://github.com/mishraaditya595)
 
-- 🔭 I’m currently working on [ScanIt](https://github.com/mishraaditya595/Scanner) & [HowInJava](https://github.com/mishraaditya595/HowInJava)
-- 🌱 I’m currently learning Kotlin 
-- 👯 I’m looking to collaborate on Android projects.
+- 🔭 I’m currently working on [Gita](https://github.com/mishraaditya595/Gita-App)
+- 👯 I’m looking to collaborate on Android & Flutter projects.
 <!-- - 🤔 I’m looking for help with -->
-- 💬 Ask me about Android, Java & Kotlin
+- 💬 Ask me about Android, Java & Kotlin & Flutter
 - 📫 How to reach me: Instagram [@i_am_adityamishra](https://www.instagram.com/i_am_adityamishra/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
