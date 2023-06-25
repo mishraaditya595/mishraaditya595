@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on Android & Flutter projects.
 <!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about Android, Java & Kotlin & Flutter
-- 📫 How to reach me: Instagram [@i_am_adityamishra](https://www.instagram.com/i_am_adityamishra/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
 <!--<img src="https://github-readme-stats.vercel.app/api?username=mishraaditya595&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515" />
