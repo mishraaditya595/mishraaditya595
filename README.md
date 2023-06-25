@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Gita](https://github.com/mishraaditya595/Gita-App)
 - 👯 I’m looking to collaborate on Android & Flutter projects.
-<!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about Android, Java & Kotlin & Flutter
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
